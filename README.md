@@ -37,7 +37,7 @@ This project, created for the **Make it Glow - Visual Effects Student Contest** 
 2. Open the project in **Unity Hub** with Unity 6 (version 6000.0.28f1).
 3. Ensure the **Universal Render Pipeline (URP)** is configured.
 4. Import assets from the Unity Asset Store (links in the Instructable).
-5. Follow the Instructable for detailed setup: [Instructables Link](https://www.instructables.com/[Your-Instructable-Link]).
+5. Follow the Instructable for detailed setup: [Instructables Link](https://www.instructables.com/Instructables-Robot-Laser-Battle-Scene-in-Unity/).
 
 ## Usage
 - Open the main scene in Unity to explore the setup.
